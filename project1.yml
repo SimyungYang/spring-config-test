@@ -1,7 +1,12 @@
 service:
-  name: LeeSuHong
-  phone: "010-5482-1212"
+  name: yang si-myung
+  phone: "010-"
   sex: 'M'
+
+spring:
+  profiles:
+    active: prod1
+
 
 ---
 spring.profiles: prod1,prod2
