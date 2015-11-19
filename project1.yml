@@ -5,7 +5,7 @@ service:
 
 spring:
   profiles:
-    active: prod1
+    active: staging
 
 
 ---
