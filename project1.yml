@@ -5,7 +5,7 @@ service:
 
 spring:
   profiles:
-    active: staging
+    active: test1
 
 
 ---
