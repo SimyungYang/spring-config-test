@@ -3,10 +3,6 @@ service:
   phone: "010-"
   sex: 'M'
 
-spring:
-  profiles:
-    active: test1,test2
-
 
 ---
 spring.profiles: prod1,prod2
