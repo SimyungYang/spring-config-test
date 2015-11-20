@@ -5,7 +5,7 @@ service:
 
 spring:
   profiles:
-    active: prod1
+    active: prod1,prod2
 
 ---
 spring.profiles: prod1,prod2
